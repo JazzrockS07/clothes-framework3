@@ -12,7 +12,7 @@ skins/default/books/main.tpl, book.tpl, author.tpl
 # тестирование AJAX
 test_ajax.php, test.php
 
-# мелкие задачи
+# мелкие задачи:
 
 # калькулятор, работа с функциями
 modules/calculator/main.php
